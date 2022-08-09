@@ -34,5 +34,6 @@ When a person applies for a loan, there are two types of decisions that could be
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 
-## Contact
-Created by [@varalasravan] - feel free to contact me!
+## Contributors
+[@varalasravan] - feel free to contact me!
+[@Deepika-21-Rao] - feel free to contact me!
